@@ -1,2 +1,2 @@
-# pythonPersonal
+# DataScienceProjects
 EN: Repository with Python and Data Science projects. Libraries: Pandas,NumPy and Matplotlib. PT: Repositório com projetos de Python e Data Science. Bibliotecas usadas: Pandas, NumPy e Matplotlib.
